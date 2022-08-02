@@ -4,7 +4,7 @@
 - 🔭 Trabalho atualmente como Esp. em Engenharia de Redes
 - 🌱 Me aprofundando no mundo dos dados! 
 - 😄 Pronome: ele/dele
-- <img align="left" src="https://img.icons8.com/color/48/000000/power-bi.png"> https://app.powerbi.com/view?r=eyJrIjoiMGJiODc2ZTQtYThhZi00ZDI1LTg5Y2ItMzdlNzUzYmRiZDliIiwidCI6IjMwMjk0YmI0LTZlOTAtNDkzYi05MWZjLTNiMzI3Y2FiMzQ0ZSJ9&pageName=ReportSection
+- <img align="left" src="https://img.icons8.com/color/48/000000/power-bi.png"> (https://app.powerbi.com/view?r=eyJrIjoiMGJiODc2ZTQtYThhZi00ZDI1LTg5Y2ItMzdlNzUzYmRiZDliIiwidCI6IjMwMjk0YmI0LTZlOTAtNDkzYi05MWZjLTNiMzI3Y2FiMzQ0ZSJ9&pageName=ReportSection)
 
 
 <div>
