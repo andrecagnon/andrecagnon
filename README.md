@@ -4,6 +4,8 @@
 - 🔭 Trabalho atualmente como Esp. em Engenharia de Redes
 - 🌱 Me aprofundando no mundo dos dados! 
 - 😄 Pronome: ele/dele
+- <img align="left" src="https://img.icons8.com/color/48/000000/power-bi.png">
+
 
 <div>
 <div style="display: inline_block"><br>
