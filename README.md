@@ -5,6 +5,8 @@
 - 🌱 Me aprofundando no mundo dos dados! 
 - 😄 Pronome: ele/dele
 - <img align="center" src="https://img.icons8.com/color/48/000000/power-bi.png"> [Portfólio](https://app.powerbi.com/view?r=eyJrIjoiMGJiODc2ZTQtYThhZi00ZDI1LTg5Y2ItMzdlNzUzYmRiZDliIiwidCI6IjMwMjk0YmI0LTZlOTAtNDkzYi05MWZjLTNiMzI3Y2FiMzQ0ZSJ9&pageName=ReportSection)
+- <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>[Badges](Your profile is public and accessible at
+https://www.cloudskillsboost.google/public_profiles/7e53b2ab-086b-4f25-ac1f-52b6af320f1c)
 
 
 <div>
