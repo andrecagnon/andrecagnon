@@ -1,7 +1,8 @@
-<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="500" height="600">  
+
 
 ## About Me
-
+_________________________________________________________________________________________________________________________________________________________________________
 
 
 - <img align="center" src="https://img.icons8.com/color/48/000000/power-bi.png"> [Portfólio](https://app.powerbi.com/view?r=eyJrIjoiMGJiODc2ZTQtYThhZi00ZDI1LTg5Y2ItMzdlNzUzYmRiZDliIiwidCI6IjMwMjk0YmI0LTZlOTAtNDkzYi05MWZjLTNiMzI3Y2FiMzQ0ZSJ9&pageName=ReportSection)
