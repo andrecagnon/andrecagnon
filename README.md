@@ -6,13 +6,14 @@
 
 <p></p>
 
+
+
+<p></p>
+
 🌱 I’m currently learning: 
 
- • Python
- • Pandas
- • Docker
- • AWS
+ * Python
+ * Pandas
+ * Docker
+ * AWS
 
-
-- <img align="center" src="([https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white))"> [Portfólio](https://app.powerbi.com/view?r=eyJrIjoiMGJiODc2ZTQtYThhZi00ZDI1LTg5Y2ItMzdlNzUzYmRiZDliIiwidCI6IjMwMjk0YmI0LTZlOTAtNDkzYi05MWZjLTNiMzI3Y2FiMzQ0ZSJ9&pageName=ReportSection)
-- <img align="center" src="https://img.icons8.com/color/48/000000/google-cloud.png"> [Badges](https://www.cloudskillsboost.google/public_profiles/7e53b2ab-086b-4f25-ac1f-52b6af320f1c)
