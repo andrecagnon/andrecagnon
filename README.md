@@ -1,9 +1,12 @@
 <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">[](https://https://www.linkedin.com/in/luizandrebc/)  
 
 
-
 ## About Me
 
+🌱 I’m currently learning: 
+
+- AWS (https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+- Python (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 - <img align="center" src="https://img.icons8.com/color/48/000000/power-bi.png"> [Portfólio](https://app.powerbi.com/view?r=eyJrIjoiMGJiODc2ZTQtYThhZi00ZDI1LTg5Y2ItMzdlNzUzYmRiZDliIiwidCI6IjMwMjk0YmI0LTZlOTAtNDkzYi05MWZjLTNiMzI3Y2FiMzQ0ZSJ9&pageName=ReportSection)
