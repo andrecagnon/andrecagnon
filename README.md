@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 <p></p>
 
-
+I am passionate about solving problems and adding value through technology. Looking to improve myself in **Data Analytics** and **DevOps**
 
 <p></p>
 
