@@ -1,5 +1,4 @@
-### Hello! My name is André
-___
+### Hi there 👋! My name is André
 
 <p></p>
 
@@ -8,7 +7,7 @@ ___
 <p></p>
 
 #### Languages/Technologies:
-<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="30" />
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="25" />
 
 ___
 #### My contacts:
