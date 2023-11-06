@@ -2,19 +2,17 @@
 
 <p></p>
   
-### About Me
+### Hello! My name is André
 ________________________________________________________________________________________________________________________________________________________________________
 
 <p></p>
 
-I am passionate about solving problems and adding value through technology. Looking to improve myself in **Data Analytics** and **DevOps**
+Welcome to my profile here in Github where I show all my projects and codes.
 
 <p></p>
 
-🌱 I’m currently learning: 
+#### Languages/Technologies:
+<img src="icons/Python-Dark.svg">
 
- * Python
- * Pandas
- * Docker
- * AWS
+
 
