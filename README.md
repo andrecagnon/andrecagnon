@@ -1,14 +1,21 @@
-### Hi there 👋! My name is André
+# 👋 Olá, eu sou André!  
 
-<p></p>
+## 🚀 Sobre mim  
+Sou **Analista de Dados** com experiência em transformar dados em insights valiosos para a tomada de decisão.  
 
-Welcome to my profile here in Github where I show all my projects and codes.
-___
-<p></p>
+## 💻 Habilidades  
+- **Power BI**: criação de dashboards interativos e análises visuais.  
+- **Python**: manipulação de dados, automação e análise estatística.  
+- **SQL**: modelagem e consultas para extração de informações estratégicas.  
 
-#### Languages/Technologies:
-<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="25" />
+## 📈 O que eu faço  
+Atuo na coleta, organização e análise de dados, transformando números em histórias e estratégias baseadas em dados.  
 
-___
-#### My contacts:
-<div> <a href="https://www.linkedin.com/in/luizandrebc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   </div>  
+## 🌱 Aprendizado contínuo  
+Estou sempre buscando aprender novas tecnologias e métodos para aprimorar minha capacidade de resolver problemas e gerar valor com dados.  
+
+## 🌐 Entre em contato  
+- **LinkedIn**: [www.linkedin.com/in/luizandrebc](#)  
+- **E-mail**: [andrecagnon@gmail.com](mailto:andrecagnon@gmail.com)  
+
+🎯 *Vamos explorar o poder dos dados juntos!*  
