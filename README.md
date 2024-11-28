@@ -17,5 +17,3 @@ Estou sempre buscando aprender novas tecnologias e métodos para aprimorar minha
 ## 🌐 Entre em contato  
 - **LinkedIn**: [www.linkedin.com/in/luizandrebc](#)  
 - **E-mail**: [andrecagnon@gmail.com](mailto:andrecagnon@gmail.com)  
-
-🎯 *Vamos explorar o poder dos dados juntos!*  
