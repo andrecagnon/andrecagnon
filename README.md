@@ -1,7 +1,5 @@
-# 👋 Olá, eu sou André!  
 
-## 🚀 Sobre mim  
-Sou **Analista de Dados** com experiência em transformar dados em insights valiosos para a tomada de decisão.  
+**Analista de Dados** com experiência em transformar dados em insights valiosos para a tomada de decisão.  
 
 ## 💻 Habilidades  
 - **Power BI**: criação de dashboards interativos e análises visuais.  
